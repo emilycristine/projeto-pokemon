@@ -2,7 +2,7 @@ body {
   font-family: 'poppins', sans-serif;
   max-width: 1280px;
   margin: 0 auto;
-  background-color: #5e5b5bad;
+  background-color: rgb(100, 147, 223);
   color: #333333;
 }
 
@@ -59,7 +59,7 @@ main .cartao-pokemon{
 }
 
 main .cartao-pokemon:hover{
-  background-color: #96d9d6;
+  background-color: #96d9a4;
   transform: scale(1.05);
   cursor: pointer;
 }
